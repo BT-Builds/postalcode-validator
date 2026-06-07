@@ -69,3 +69,6 @@ curl -X POST https://postalcode-validator.vercel.app/validate \
 
 ## Supported Countries
 US, CA, GB, DE, FR, IT, ES, NL, BE, AU, JP, IN, BR, MX, RU, CN, KR, PT, IE, AT
+
+## Postman
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://raw.githubusercontent.com/BT-Builds/postalcode-validator/main/postman_collection.json)
